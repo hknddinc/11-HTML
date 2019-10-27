@@ -1,0 +1,91 @@
+ALANIN MEVCUT DURUMU VE GELECEÐÝ
+Bilgisayar kullanýmý yirminci yüzyýlýn özellikle son on yýlýnda büyük bir hýzla artmýþtýr. Bu artýþ, hem tüm dünyaya yayýlarak hem de kullaným alaný çeþitlenerek olmuþtur. Biliþim Teknolojileri; bilgisayar sektöründeki geliþmelerin sonucunda ortaya çýkmýþve verileri saklamak, iletmek ve iþlemek için kullanýlan bilgisayar donaným ve yazýlým teknolojilerini içeren bir alandýr.
+
+Biliþim sektörü dünyada son 50 yýldýr var olan ancak günümüzde olaðanüstü öneme sahip olan bir sektördür. Katma deðeri oldukça yüksek olan biliþim sektörü, geliþmiþülkelerde gözde sektörlerin baþýnda gelmektedir. Ülkemizde iþletmeler kurumsallaþma yolunda hýzla ilerledikçe Biliþim Teknolojileri alanýna olan ihtiyaç daha da artmaya baþlamýþtýr. Bu sebepten, Biliþim Teknolojileri alanýnda yeterlik sahibi insanlara çok ihtiyaç duyulmaktadýr. Halen baþka dallardan, mesleklerden insanlar bu alandaki ihtiyaca yönelmeye devam etmektedirler. Ancak doðru olan bu alanýn içinde, temelden bu yeterliklere sahip insanlar yetiþtirmektir. Gelecekte de Biliþim Teknolojileri, çalýþma hayatýnýn en önemli unsuru olmaya devam edecektir. Bu alanda yeterlik sahibi insanlar yetiþtirmek ülkemizde bu sektörün geliþimi ve ilerlemesi için çok önemlidir.
+
+ALANIN ALTINDA YER ALAN DALLAR
+Að Ýþletmenliði
+Veri TabanýProgramcýlýðý
+Bilgisayar Teknik Servisi
+Web Programcýlýðý
+
+AÐ ÝÞLETMENÝ
+Görevleri
+Ýþ organizasyonu yapmak.
+Analiz yapmak.
+Algoritma yapmak.
+Aðkurulacak ortamý(aðýn altyapýsýný) oluþturmak.
+Oluþturulan ortama fiziksel olarak bilgisayar aðýkurmak.
+Geniþaðsistemleri için yönlendirme yapmak.
+Bilgisayar aðýnýyönetecek sunucu iþletim sistemini kurmak.
+Sunucuyu aðdaki bilgisayarlarýn yöneticisi olarak tespit etmek.
+Aðortamýnda oluþabilecek fiziksel ve yazýlýmsal sorunlarý gidermek.
+Meslekî geliþime iliþkin faaliyetleri yürütmek.
+
+VERÝTABANI PROGRAMCISI
+Görevleri
+Ýþ organizasyonu yapmak.
+Analiz yapmak.
+Algoritma yapmak.
+Veri Tabanýna ait tablolarýtasarlamak.
+Veri Tabanýna ait tablolarýprogram üzerinde oluþturmak.
+Veri Tabanýna ait arayüz ortamýnýgeliþtirmek.
+Tamamlanan projenin testini gerçekleþtirmek.
+Meslekî geliþime iliþkin faaliyetleri yürütmek.
+
+BÝLGÝSAYAR TEKNÝK SERVÝSCÝSÝ
+Görevleri
+Ýþ organizasyonu yapmak.
+Analiz yapmak.
+Algoritma yapmak.
+Hatalarý tespit etmek.
+Arýza gidermek.
+Devre tasarýmý yapmak.
+Ýhtiyaç olursa bilgisayar ile kontrol edilebilen projeler geliþtirmek.
+Tamamlanan projenin testini gerçekleþtirmek.
+
+WEB PROGRAMCISI
+Görevleri
+Ýþ organizasyonu yapmak.
+Analiz yapmak.
+Algoritma yapmak.
+Ýhtiyaçlarýdeðerlendirmek.
+Web sitesinin görsel tasarýmýnýyapmak.
+Tasarlanan sitenin yerel yayýnýnýyaparak test etmek.
+Meslekî geliþime iliþkin faaliyetleri yürütmek.
+
+
+
+
+
+
+
+
+ALAN / DAL DERSLERÝ	ALAN ORTAK DERSLERÝ	MESLEKÝ GELÝÞÝM	
+BÝLÝÞÝM TEKNOLOJÝLERÝNÝN TEMELLERÝ (*)
+PROGRAMLAMA TEMELLERÝ
+OFÝS PROGRAMLARI
+TEMEL ELEKTRONÝK VE ÖLÇME
+BÝLÝÞÝM TEKNÝK RESMÝ
+DAL DERSLERÝ	ÝÞLETMELERDE BECERÝ EÐÝTÝMÝ (*)	
+AÇIK KAYNAK ÝÞLETÝM SÝSTEMÝ
+MESLEKÝ YABANCI DÝL
+NESNE TABANLI PROGRAMLAMA
+VERÝTABANI
+GELÝÞMÝÞ ÝNTERNET UYGULAMALARI
+SÝSTEM BAKIM VE ONARIMI (*)
+ELEKTRONÝK UYGULAMALARI
+BÝLGÝSAYARLI DEVRE TASARIMI
+SÝSTEM KONTROL UYGULAMALARI
+SUNUCU ÝÞLETÝM SÝSTEMÝ
+WEB TASARIM VE PROGRAMLAMA(*)
+GRAFÝK ANÝMASYON
+ÝNTERNET PROGRAMCILIÐI
+VERÝTABANI ORGANÝZASYONU
+AÐ SÝSTEMLERÝ (*)
+SUNUCU ÝÞLETÝM SÝSTEMÝ
+E-POSTA SUNUCUSU
+ALAN / DAL DERS SAATLERÝ TOPLAMI
+SEÇMELÝ DERS SAATÝ TOPLAMI
+REHBERLÝK VE YÖNLENDÝRME
+TOPLAM DERS SAATÝ
